@@ -1,0 +1,24 @@
+﻿已經開始建置於 2019/1/11 下午 06:13:34。
+     1>節點 2 (Build 目標) 上的專案 "D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\P76071022\P76071022.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm1.cpp
+         MyForm1.cpp
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(357): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(498): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(500): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(502): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(504): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(401): warning C4102: 'endfor' : 未參考的標籤
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\Release\P76071022.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\P76071022.MyForm1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\Release\P76071022.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\MyForm1.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         P76071022.vcxproj -> D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\Release\P76071022.exe
+     1>專案 "D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\P76071022\P76071022.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.26

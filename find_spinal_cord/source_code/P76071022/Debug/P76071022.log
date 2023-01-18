@@ -1,0 +1,25 @@
+﻿已經開始建置於 2019/1/11 上午 01:31:03。
+     1>節點 2 (Build 目標) 上的專案 "D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\P76071022\P76071022.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm1.cpp
+         MyForm1.cpp
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(357): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(591): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(593): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+     1>d:\ncku\hw\imageprocess\hw2\vs2013_p76071022\p76071022\p76071022\MyForm1.h(597): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 請參閱 'sprintf' 的宣告
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\User\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\Debug\P76071022.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\P76071022.MyForm1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\Debug\P76071022.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm1.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         P76071022.vcxproj -> D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\Debug\P76071022.exe
+     1>專案 "D:\ncku\HW\imageprocess\HW2\VS2013_P76071022\P76071022\P76071022\P76071022.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.64
