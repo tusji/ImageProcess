@@ -1,8 +1,7 @@
 # ImageProcess
 ## 說明
-    使用Visual studio以C++編寫圖形化介面，以及編功能如:
-    smooth filter, histogram equalization, sobel edge detection,
-    find spinal cord等功能
+使用Visual studio以C++編寫圖形化介面，以及編功能如:
+smooth filter, histogram equalization, sobel edge detection, find spinal cord等功能
 
 
 ## 檔案名稱及用處
